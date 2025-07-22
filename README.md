@@ -1,6 +1,6 @@
 # Portfolio de Ulises Pallarés
 
-Portfolio profesional de Ulises Pallarés, desarrollador Java especializado en Spring Boot y Python.
+Portfolio profesional de Ulises Pallarés.
 
 ## 📧 Contacto
 
